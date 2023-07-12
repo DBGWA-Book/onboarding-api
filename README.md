@@ -1,3 +1,3 @@
-# Understanding HTTP, REST, and APIs : Before
+# Onboarding API Project
 
-This folder is a clean start for the exercise solution from Chapter 2.  
+This project contains files rlated to the BigCo Onboarding API.  
